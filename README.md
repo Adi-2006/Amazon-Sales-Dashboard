@@ -1,6 +1,6 @@
 # 🛒 Amazon Sales Analysis Dashboard | Power BI Project
 
-![Amazon Logo](./54966232-71d9-4471-9a38-891418734919.png)
+![Amazon Logo](./White-Amazon-Logo-PNG-HD-Quality.png)
 
 ---
 
