@@ -20,6 +20,8 @@ This interactive **Power BI dashboard** analyzes the sales performance of **Amaz
 
 ---
 
+## 📊 Dashboard
+
 ![Amazon Sales Dashboard](./Amazon%20Dashboard%20Img.png)
 
 ## 📊 Dashboard Highlights
